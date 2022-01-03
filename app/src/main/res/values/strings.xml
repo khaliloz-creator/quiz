@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" src="@drawbale/quizapp">Quiz</string>
+
+    <string name="Question_electron" >Electrons are larger than molecules.</string>//false
+    <string name="Question_temp">kelvin is a measure of temperature. </string>//true
+    <string name="Question_ocean">the Atlantic Ocean is the biggest ocean on Earth.</string>//false -Pacific Ocean
+    <string name="Question_Spider">Spider have six legs.</string>//False - 8
+    <string name="Question_physics">Albert Einstein was awarded the nobel Prize in physics.</string>//true
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="previous_text">previous</string>
+    <string name="next_text">next_text</string>
+    <string name="next_button">next_button</string>
+
+
+</resources>
